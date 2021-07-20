@@ -30,7 +30,7 @@
     "react-latex": "^2.0.0",
     "react-mathjax": "^1.0.1",
     "react-mathquill": "^0.2.6",
-    "react-native": "^0.63.2",
+    "react-native": "^0.64.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "slate": "^0.58.4",
